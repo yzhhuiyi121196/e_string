@@ -1,0 +1,19 @@
+﻿            
+MASK_CARD_NO	   卡银行卡号(掩码)	                              
+PUBLIC_TYPE	       卡公私类型	                    
+BANK_NAME	       	银行名称                     
+VALID_DATE	       卡有效期月年	           
+CNAPS_CODE	       银行联行号	               
+NUMBER_ACCOUNT_TYPE 二三类户类型	   
+BANK_AGREEMENT_NO   短信流水	       
+UNION_PAY_HEADER	快捷协议头	       
+CIF_CREATED_AT	    cif创建时间
+CIF_UPDATED_AT	    cif修改时间
+CREATED_AT	        创建时间	
+CREATED_BY	        创建人	                   
+UPDATED_AT	        更新时间	
+UPDATED_BY	        更新人	                   
+NEW_CARD_NO	        卡号(新加密方式)	 
+CHANNEL             渠道
+SIGN_TRANS_NO       签约流水号
+ORG_CODE            机构号
